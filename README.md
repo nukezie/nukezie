@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Melbourne, Australia.
 * 🧠  I'm learning AI and ML.
 * 🤝  I'm open to collaborating on Anything, HMU!
-* ⚡  Love is blind, just as you are, when you were born.
+* ⚡
 
 <a href="https://www.github.com/nukezie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nukezie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
