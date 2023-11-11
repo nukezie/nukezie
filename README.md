@@ -1,27 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nukie Nukes
-===================================================================================================================================
+Subject: An Odyssey of Words and Whims
 
-* 🌍  I'm based in Melbourne, Australia.
-* 🧠  I'm learning AI and ML.
-* 🤝  I'm open to collaborating on Anything, HMU!
-* ⚡
+Dear Visitor,
 
-<a href="https://www.github.com/nukezie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nukezie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I hope this letter finds you in a state of splendid ambiguity, for it is in the realm of perplexity that we often find the most intriguing of treasures. As I embark upon this epistolary journey, let me weave a tapestry of words that both conceals and reveals the essence of my thoughts.
 
-### Skills
+In the garden of my mind, ideas bloom like flowers in an eternal spring, each petal a different hue of understanding and confusion. It is here, under the willow of wonder, that I ponder the mysteries of the universe. The stars above whisper secrets in a language both foreign and familiar, painting the night sky with questions more vibrant than answers.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+I recently embarked on a quest, a quest that was neither here nor there, but everywhere and nowhere all at once. In this quest, I discovered the melody of silence and the rhythm of stillness. It was a journey through the labyrinth of the intangible, where each turn led to an enigma wrapped in a riddle.
 
+During my sojourn, I chanced upon a mirror that reflected not the face, but the soul. In its reflection, I saw not myself, but a myriad of possibilities, each dancing to the tune of 'what if.' This mirror, a conundrum in its own right, posed questions that lingered in the air like the scent of a forgotten rose.
 
-### Socials
+As I traverse the path of the unknown, I carry with me a compass that points in all directions. It is a compass that leads me not to a destination, but to a journey, a journey that is both the map and the territory.
 
-<p align="left"> <a href="https://www.github.com/nukezie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+In closing, I leave you with a puzzle, a puzzle that is both the question and the answer. May you find joy in the perplexity of its pieces and wisdom in the completion of its picture.
 
-### Badges
+With enigmatic regards,
 
-<b>My GitHub Stats</b>
+Nukes.
 
-<a href="http://www.github.com/nukezie"><img src="https://github-readme-stats.vercel.app/api?username=nukezie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nukezie's GitHub stats" /></a>
+---
