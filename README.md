@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Nicholas Warren — @nukezie</h1>
+<h1 align="center">🧠 nukezie</h1>
 <p align="center">
   <strong>Independent Researcher | Symbolic Systems Engineer | Adversarial Design Architect</strong><br>
   Specialising in LLM safety testing, red teaming, and prompt-driven symbolic breakdown analysis.
