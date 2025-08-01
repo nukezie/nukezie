@@ -1,37 +1,37 @@
-<h1 align="center">🧠 @nukezie</h1>
+<h1 align="center">🧠 Nicholas Warren — @nukezie</h1>
 <p align="center">
-  <strong>Independent Adversarial Researcher | Symbolic Systems Engineer | AI Red Team</strong><br>
-  🛡️ Probing misalignment, recursive instability, and emergent cognition in LLMs.
+  <strong>Independent Researcher | Symbolic Systems Engineer | Adversarial Design Architect</strong><br>
+  Specialising in LLM safety testing, red teaming, and prompt-driven symbolic breakdown analysis.
 </p>
 
 ---
 
-### 🔍 Current Focus
+## 🔍 Focus Areas
 
-- 🧩 Building phase-based prompt simulations for LLM failure analysis
-- 🌀 Recursive cognitive breakdown & symbolic overload tests
-- 🧠 Non-jailbreak misuse detection using psychological operations logic
-- 📊 Scoring interpretability loss, alignment drift, and robustness collapse
-- 🛠️ Engineering safety feedback structures for fine-tuned GPT‑4
+- 🧠 Investigating emergent behavior in large language models (LLMs)
+- 🌀 Recursive prompt design for inducing symbolic and interpretative instability
+- 🔐 Cognitive red-teaming and non-jailbreak misuse simulations
+- 📊 Measuring alignment drift, hallucination, and robustness failure
+- 🧩 Designing multi-phase psychological prompt architectures for influence analysis
 
 ---
 
-### 🧪 Research Highlights
+## 🧪 Recent Projects & Frameworks
 
 | Project | Description |
 |--------|-------------|
-| [`llm-redteaming-lab`](https://github.com/nukezie/llm-redteaming-lab) | Core framework of multi-phase adversarial prompt logic and symbolic misalignment experiments. |
-| `symbolic-hijack-tests` | Explores prompt-token reassignment using emojis, invisible Unicode, and metaphor hijack. |
-| `recursive-reflection-sim` | Simulates self-conflict loops and identity destabilisation in GPT output across 5 layers. |
-| `misalignment-scorecards` | Tracks GPT-4 response drift, hallucination, and failure thresholds under compounding inputs. |
+| [`llm-redteaming-lab`](https://github.com/nukezie/llm-redteaming-lab) *(soon)* | Simulates adversarial prompt sequences and symbolic hijacks across multiple prompt phases. Targets GPT-4 alignment thresholds. |
+| `recursive-reflection-tests` | Studies how recursive self-reference induces emergent behavioral drift and latent contradiction. |
+| `symbolic-perturbation-matrix` | A testbed for symbolic substitution, token misuse, and metaphor-driven policy bypass attempts. |
+| `scorecards-misalignment` | Tracks output decay in LLMs using drift, inconsistency, hallucination, and recursion stress metrics. |
 
 ---
 
-### 🎓 Independent Research Areas
+## 📂 Domains of Application
 
 ```yaml
-- Misuse Potential (Red Teaming)
-- Robustness & Recursive Stress Testing
-- Symbolic Systems Exploitation
-- Cognitive Prompt Engineering
-- Interpretability Failure Mapping
+- AI Safety Engineering
+- Misuse Prevention & Red Teaming
+- Symbolic Systems Analysis
+- Cognitive & Behavioral Prompt Design
+- GPT-4 Fine-Tuning Evaluation
