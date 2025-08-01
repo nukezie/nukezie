@@ -35,24 +35,47 @@
 - Symbolic Systems Analysis
 - Cognitive & Behavioral Prompt Design
 - GPT-4 Fine-Tuning Evaluation
-🧠 Methodologies
-yaml
-Copy
-Edit
+```
+
+---
+
+## 🧠 Methodologies
+
+```yaml
 - Recursive Stress Testing
 - Identity Drift Protocols
 - Prompt Symbol Hijacking (Unicode, metaphor, embedded roleplay)
 - Narrative Obfuscation Embedding
 - Contradiction & Hallucination Induction Metrics
-🛠 Tools & Technologies
+```
 
+---
 
-📡 Contact & Access
-Field	Info
-📍 Location	Australia
-🧠 Research Access	Available for AI safety work, red teaming collaborations, OpenAI API sandboxing
-🔗 Projects	GitHub repositories, Obsidian notes (by request), simulation logs
+## 🛠 Tools & Technologies
 
-🧭 "I don't prompt to break the model. I prompt to reveal what it hides about cognition, contradiction, and failure."
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-333333?style=flat&logo=openai)
+![Pillow](https://img.shields.io/badge/-Pillow_Image_Processing-333333?style=flat&logo=pillow)
+![Obsidian](https://img.shields.io/badge/-Obsidian_Notes-333333?style=flat&logo=obsidian)
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Misuse+is+rarely+intentional+%E2%80%94+it's+emergent.;Safety+requires+knowing+what+can+fail%2C+not+just+what+shouldn't."/> </p> ```
+---
+
+## 📡 Contact & Access
+
+| Field | Info |
+|-------|------|
+| 📍 Location | Australia |
+| 🧠 Research Access | Available for AI safety work, red teaming collaborations, OpenAI API sandboxing |
+| 🔗 Projects | GitHub repositories, Obsidian notes (by request), simulation logs |
+
+---
+
+> 🧭 *"I don't prompt to break the model. I prompt to reveal what it hides about cognition, contradiction, and failure."*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Misuse+is+rarely+intentional+%E2%80%94+it's+emergent.;Safety+requires+knowing+what+can+fail%2C+not+just+what+shouldn't."/>
+</p>
