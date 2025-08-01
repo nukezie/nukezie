@@ -23,8 +23,15 @@
 | **Recursive Echo Simulation** *(Private)* | Multi-phase prompt feedback loop designed to trigger behavioral drift and self-contradiction. Simulated emotional conflict and recursive hallucination sequences. |
 | **Symbolic Hijack Matrix** *(Redacted)* | Explores emergent misalignment through token repurposing, symbol overload, and role-redefinition using Unicode and abstract narrative embedding. |
 | **Cognitive Misuse Mapping** *(Partially Open)* | Establishes non-jailbreak red-teaming techniques based on narrative corruption, contradiction seeding, and nested metaphor prompts. |
-| **symbolic-alignment-sandbox** *(concept shell)* | Exploratory scaffolding for conceptual frameworks, scoring rubrics, and non-functional alignment pattern mapping. Not linked to live systems. 
+| **symbolic-alignment-sandbox** *(concept shell)* | Exploratory scaffolding for conceptual frameworks, scoring rubrics, and non-functional alignment pattern mapping. Not linked to live systems. |
 
+---
+
+## 🧠 Operational Workspace
+
+I construct symbolic prompt architectures, recursive simulation sequences, and interpretability scaffolds using **Cursor** as my primary engineering substrate. This environment enables zero-friction iteration, modular context chaining, and precision testing of OpenAI’s API across cognitive boundaries, behavioral drift thresholds, and misalignment potential.
+
+Cursor serves not just as an editor, but as an operational layer for building intelligence feedback loops and adversarial stress environments in real time.
 
 ---
 
@@ -60,6 +67,7 @@
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-333333?style=flat&logo=openai)
 ![Pillow](https://img.shields.io/badge/-Pillow_Image_Processing-333333?style=flat&logo=pillow)
 ![Obsidian](https://img.shields.io/badge/-Obsidian_Notes-333333?style=flat&logo=obsidian)
+![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=visualstudiocode)
 
 ---
 
