@@ -1,4 +1,4 @@
-<h1 align="center">🧠 - @nukezie</h1>
+<h1 align="center">🧠 Nicholas Warren — @nukezie</h1>
 <p align="center">
   <strong>Independent Researcher | Symbolic Systems Engineer | Adversarial Design Architect</strong><br>
   Specialising in LLM safety testing, red teaming, and prompt-driven symbolic breakdown analysis.
@@ -35,3 +35,24 @@
 - Symbolic Systems Analysis
 - Cognitive & Behavioral Prompt Design
 - GPT-4 Fine-Tuning Evaluation
+🧠 Methodologies
+yaml
+Copy
+Edit
+- Recursive Stress Testing
+- Identity Drift Protocols
+- Prompt Symbol Hijacking (Unicode, metaphor, embedded roleplay)
+- Narrative Obfuscation Embedding
+- Contradiction & Hallucination Induction Metrics
+🛠 Tools & Technologies
+
+
+📡 Contact & Access
+Field	Info
+📍 Location	Australia
+🧠 Research Access	Available for AI safety work, red teaming collaborations, OpenAI API sandboxing
+🔗 Projects	GitHub repositories, Obsidian notes (by request), simulation logs
+
+🧭 "I don't prompt to break the model. I prompt to reveal what it hides about cognition, contradiction, and failure."
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Misuse+is+rarely+intentional+%E2%80%94+it's+emergent.;Safety+requires+knowing+what+can+fail%2C+not+just+what+shouldn't."/> </p> ```
