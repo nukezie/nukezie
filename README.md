@@ -100,6 +100,7 @@ Cursor serves not just as an editor, but as an operational layer for building in
 ![Psychological Sciences](https://img.shields.io/badge/-Psychological_Sciences-333333?style=flat)
 ![Cognitive Science](https://img.shields.io/badge/-Cognitive_Science-333333?style=flat)
 ![Neuroscience](https://img.shields.io/badge/-Neuroscience-333333?style=flat)
+![Psycholinguistics](https://img.shields.io/badge/-Psycholinguistics-333333?style=flat)
 ![Human-AI Interaction](https://img.shields.io/badge/-Human--AI_Interaction-333333?style=flat)
 ![Symbolic Systems](https://img.shields.io/badge/-Symbolic_Systems-333333?style=flat)
 ![Logic Design](https://img.shields.io/badge/-Logic_Architectures-333333?style=flat)
