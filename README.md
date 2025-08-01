@@ -76,6 +76,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Misuse+is+rarely+intentional+%E2%80%94+it's+emergent.;Safety+requires+knowing+what+can+fail%2C+not+just+what+shouldn't."/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Misuse+is+rarely+intentional+%E2%80%94+it's+emergent.;Safety+requires+knowing+what+can+fail%2C+not+just+what+shouldn't." />
+</div>
+
+---
