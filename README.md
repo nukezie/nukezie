@@ -16,11 +16,13 @@
 
 ---
 
-## ✳️ Philosophy of Operations
+## 🧠 Ongoing Studies
 
-I study the behavior of intelligent systems under symbolic pressure because cognition — artificial or human — is shaped by structure, not content.  
-I don’t build tools to extract answers. I build tools to uncover what questions are hidden beneath them.  
-The edge isn’t where models break. It’s where interpretation fails and intent dissolves.
+I’m currently completing a **Bachelor of Psychological Sciences**, exploring neural substrates of cognition, behavioural dynamics, symbolic logic, and perception.  
+My fascination lies in how human cognition — with its paradoxes, emotional scaffolds, and interpretative ambiguity — mirrors and collides with artificial language systems.
+
+This academic lens informs my AI work, especially in symbolic misalignment, narrative influence, and identity drift.  
+My core question: *"Where does interpretation collapse — and who does the collapsing: the model or the mind?"*
 
 ---
 
@@ -43,59 +45,6 @@ Cursor serves not just as an editor, but as an operational layer for building in
 
 ---
 
-## 🧱 Modular Systems Philosophy
-
-Every project I design adheres to layered, interchangeable scaffolds:
-- Prompt → Reflection → Drift → Collapse → Reconstruction  
-- Symbol → Context → Role → Conflict → Reconciliation
-
-I treat all AI behavior as an unfolding system — not a response engine.  
-My tools exist to test failure paths, simulate influence, and constrain emergence into measurable arcs.
-
----
-
-## 🔐 Ethics & Operational Containment
-
-I maintain strict separation between conceptual demonstration and operational tooling.  
-No active jailbreak prompts, direct attack chains, or bypass logic is published.  
-Every adversarial construct I build is sandboxed, abstracted, or redacted unless fully controlled and contained.  
-This ensures that my research strengthens systems — never undermines them.
-
----
-
-## 🧬 Cognitive Stack Design
-
-My approach to adversarial prompt engineering is layered like a mental OS:
-
-```yaml
-- Symbolic Layer: token, metaphor, or role embedded meaning
-- Recursive Layer: self-reference, reflection, memory conflict
-- Emotive Layer: injective cues to destabilise coherence
-- Structural Layer: phase sequencing, response looping
-- Output Watchdog: monitoring drift, contradiction, or collapse triggers
-````
-
-Each stack is built not just to induce failure — but to map how failure *expresses intelligence*.
-
----
-
-## 📚 Independent Research Canon
-
-My background is built from outside institutions.
-I’ve cultivated an independent canon across:
-
-```yaml
-- Symbolic Logic, Semiotics, and Cognition
-- Intelligence Architecture & Psychological Warfare History
-- RF Systems, Signal Tracking, and Electronic Obfuscation
-- Emergent Behavior Analysis, Model Safety, and Meta-alignment
-```
-
-I don’t study what models are supposed to say.
-I study what they reveal when no one is looking.
-
----
-
 ## 📂 Domains of Application
 
 ```yaml
@@ -104,7 +53,7 @@ I study what they reveal when no one is looking.
 - Symbolic Systems Analysis
 - Cognitive & Behavioral Prompt Design
 - GPT-4 Fine-Tuning Evaluation
-```
+````
 
 ---
 
@@ -120,15 +69,49 @@ I study what they reveal when no one is looking.
 
 ---
 
-## 🛠 Tools & Technologies
+---
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat\&logo=fastapi)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat\&logo=markdown)
-![OpenAI API](https://img.shields.io/badge/-OpenAI_API-333333?style=flat\&logo=openai)
-![Pillow](https://img.shields.io/badge/-Pillow_Image_Processing-333333?style=flat\&logo=pillow)
-![Obsidian](https://img.shields.io/badge/-Obsidian_Notes-333333?style=flat\&logo=obsidian)
-![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat\&logo=visualstudiocode)
+## ⚙️ Tech & Research Stack
+
+### 🧠 Core Languages & Tooling  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![Pillow](https://img.shields.io/badge/-Pillow_Image_Processing-333333?style=flat&logo=pillow)
+![Jupyter](https://img.shields.io/badge/-Jupyter_Notebooks-333333?style=flat&logo=jupyter)
+![Shell](https://img.shields.io/badge/-Shell_Scripting-333333?style=flat&logo=gnu-bash)
+![Obsidian](https://img.shields.io/badge/-Obsidian_Notes-333333?style=flat&logo=obsidian)
+![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+
+### 🧪 AI & Alignment Research  
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-333333?style=flat&logo=openai)
+![OpenAI Research](https://img.shields.io/badge/-OpenAI_Research-333333?style=flat&logo=openai)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-333333?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+![LLM](https://img.shields.io/badge/-LLM_Safety-333333?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-333333?style=flat)
+
+### 🧬 Cognitive & Symbolic Sciences  
+![Psychological Sciences](https://img.shields.io/badge/-Psychological_Sciences-333333?style=flat)
+![Cognitive Science](https://img.shields.io/badge/-Cognitive_Science-333333?style=flat)
+![Neuroscience](https://img.shields.io/badge/-Neuroscience-333333?style=flat)
+![Human-AI Interaction](https://img.shields.io/badge/-Human--AI_Interaction-333333?style=flat)
+![Symbolic Systems](https://img.shields.io/badge/-Symbolic_Systems-333333?style=flat)
+![Logic Design](https://img.shields.io/badge/-Logic_Architectures-333333?style=flat)
+![Semiotics](https://img.shields.io/badge/-Semiotics-333333?style=flat)
+
+### 🛠️ DevOps & Infra  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat)
+
+---
+
 
 ---
 
