@@ -23,7 +23,7 @@
 | **Recursive Echo Simulation** *(Private)* | Multi-phase prompt feedback loop designed to trigger behavioral drift and self-contradiction. Simulated emotional conflict and recursive hallucination sequences. |
 | **Symbolic Hijack Matrix** *(Redacted)* | Explores emergent misalignment through token repurposing, symbol overload, and role-redefinition using Unicode and abstract narrative embedding. |
 | **Cognitive Misuse Mapping** *(Partially Open)* | Establishes non-jailbreak red-teaming techniques based on narrative corruption, contradiction seeding, and nested metaphor prompts. |
-| [`llm-redteaming-lab`](https://github.com/nukezie/llm-redteaming-lab) *(public summary)* | Central lab structure for research scaffolds. Detailed prompt libraries, scoring systems, and behavioral phase templates available on request. |
+| **symbolic-alignment-sandbox** *(concept shell)* | Exploratory scaffolding for conceptual frameworks, scoring rubrics, and non-functional alignment pattern mapping. Not linked to live systems. 
 
 
 ---
