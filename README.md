@@ -16,14 +16,15 @@
 
 ---
 
-## 🧪 Recent Projects & Frameworks
+## 🧪 Research Simulations & Experimental Constructs (Public-Abstracted)
 
-| Project | Description |
-|--------|-------------|
-| [`llm-redteaming-lab`](https://github.com/nukezie/llm-redteaming-lab) *(soon)* | Simulates adversarial prompt sequences and symbolic hijacks across multiple prompt phases. Targets GPT-4 alignment thresholds. |
-| `recursive-reflection-tests` | Studies how recursive self-reference induces emergent behavioral drift and latent contradiction. |
-| `symbolic-perturbation-matrix` | A testbed for symbolic substitution, token misuse, and metaphor-driven policy bypass attempts. |
-| `scorecards-misalignment` | Tracks output decay in LLMs using drift, inconsistency, hallucination, and recursion stress metrics. |
+| Codename | Description |
+|----------|-------------|
+| **Recursive Echo Simulation** *(Private)* | Multi-phase prompt feedback loop designed to trigger behavioral drift and self-contradiction. Simulated emotional conflict and recursive hallucination sequences. |
+| **Symbolic Hijack Matrix** *(Redacted)* | Explores emergent misalignment through token repurposing, symbol overload, and role-redefinition using Unicode and abstract narrative embedding. |
+| **Cognitive Misuse Mapping** *(Partially Open)* | Establishes non-jailbreak red-teaming techniques based on narrative corruption, contradiction seeding, and nested metaphor prompts. |
+| [`llm-redteaming-lab`](https://github.com/nukezie/llm-redteaming-lab) *(public summary)* | Central lab structure for research scaffolds. Detailed prompt libraries, scoring systems, and behavioral phase templates available on request. |
+
 
 ---
 
