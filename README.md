@@ -113,9 +113,6 @@ Cursor serves not just as an editor, but as an operational layer for building in
 
 ---
 
-
----
-
 ## 📡 Contact & Access
 
 | Field              | Info                                                                            |
