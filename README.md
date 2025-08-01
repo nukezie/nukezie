@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Nicholas Warren — @nukezie</h1>
+<h1 align="center">🧠 @nukezie</h1>
 <p align="center">
   <strong>Independent Adversarial Researcher | Symbolic Systems Engineer | AI Red Team</strong><br>
   🛡️ Probing misalignment, recursive instability, and emergent cognition in LLMs.
